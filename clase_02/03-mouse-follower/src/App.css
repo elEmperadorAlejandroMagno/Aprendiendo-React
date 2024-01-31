@@ -1,0 +1,17 @@
+.bola {
+  position: absolute;
+  background-color: transparent;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  opacity: 0.8;
+  pointer-events: none;
+  left: -20px;
+  top: -20px;
+  width: 40px;
+  height: 40px;
+}
+
+button {
+  width: 100%;
+}
+
